@@ -8,7 +8,7 @@ Our first assignment was to get our hands dirty using Linux, while working with 
 
 ### Description
 
-To famiiarize ourselves with using Linux and using the terminals to do commands with our MakeFile that will help display our source code file using mutiple make commands.
+To famiiarize ourselves with using Linux and using the terminals to do command line arguments with our MakeFile that will help display our source code file using mutiple make commands.
 
 ### Steps
 
@@ -16,7 +16,9 @@ To famiiarize ourselves with using Linux and using the terminals to do commands 
 
 2.  I, then, created a c file under the file name of Feng_Denny_H1_main.c in the document folder on Linux so it matches the MakeFile modifications.
 
-3.  Inside the Feng_Denny_H1_main.c , I, wrote a few lines of code to help display, Hello, CSC415, I'm Denny Feng! , using the commands: **make run**.
+3.  Inside the Feng_Denny_H1_main.c , I, wrote a few lines of code to help display, command line arguments, using the code, Hello, CSC415, I'm Denny Feng!
+
+4) I executed this code using **make run**.
 
 ### Issues
 
@@ -31,9 +33,10 @@ To famiiarize ourselves with using Linux and using the terminals to do commands 
 
 Shortly after, I ran `sudo apt-get install curl`, once again and it worked.
 
-However, for my project, I didn't have any issues besides the one stated above.
+However, for my project, issues I came across was forgotten how to use **%d**, **%s**, **argc**, **argv[0]**. Luckly, I was able to refresh my memory with a quick Google search on the functionalities of `printf()` using
+[fresh2refresh](https://fresh2refresh.com/c-programming/c-printf-and-scanf/) 
 
 ### Compilation and Execution Output
 
-![hw1](https://user-images.githubusercontent.com/70169968/91248408-70b73c00-e709-11ea-8601-91618be8f626.png)
+![HW1](https://user-images.githubusercontent.com/70169968/91251052-64ce7880-e70f-11ea-8d66-d582eae17ca4.png)
 
