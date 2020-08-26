@@ -37,7 +37,7 @@
 ROOTNAME=Feng_Denny_HW
 HW=1
 FOPTION=_main
-RUNOPTIONS=Hello World
+RUNOPTIONS=Hello, CSC415, I am Denny Feng 
 CC=gcc
 CFLAGS= -g -I.
 LIBS =
