@@ -22,7 +22,7 @@ To familiarize  ourselves with using Linux and using the terminals to do command
 
 ### Issues
 
-- The first issue, I came across, while setting up VirutalBox machine was an error of `AMD-V is not enabled`. In order for me to fix this issue,
+- The first issue, I came across, while setting up VirtualBox machine was an error of `AMD-V is not enabled`. In order for me to fix this issue,
   I had to manually enable `Virtualization` in the BIOS setting of my computer. After that, I was good to go.
 
 - Second issue was the command, `sudo apt-get install curl` could not be executed. So, in order for me to fix this issues, was to do a few commands
