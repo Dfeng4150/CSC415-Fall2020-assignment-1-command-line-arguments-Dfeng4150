@@ -8,7 +8,7 @@ Our first assignment was to get our hands dirty using Linux, while working with 
 
 ### Description
 
-To famiiarize ourselves with using Linux and using the terminals to do command line arguments with our MakeFile that will help display our source code file using mutiple make commands.
+To familiarize  ourselves with using Linux and using the terminals to do command line arguments with our MakeFile that will help display our source code file using mutiple make commands.
 
 ### Steps
 
