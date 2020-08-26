@@ -33,5 +33,7 @@ Shortly after, I ran `sudo apt-get install curl`, once again and it worked.
 
 However, for my project, I didn't have any issues besides the one stated above.
 
+### Compilation and Execution Output
+
 ![hw1](https://user-images.githubusercontent.com/70169968/91248408-70b73c00-e709-11ea-8601-91618be8f626.png)
 
